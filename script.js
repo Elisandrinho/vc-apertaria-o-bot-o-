@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "No âmbito social, você prefere:",
         alternativas: [
             {
-                texto: "Você prefere estar casado com um cônjuge do qual você gosta,porém seus pais não irão apoiar o relacionamento de vocês.",
-                afirmacao: "Você prefere estar casado com um cônjuge do qual você gosta,porém seus pais não irão apoiar o relacionamento de vocês.",
+                texto: "Você prefere encontrar o cônjuge da sua vida no próximo mês e só poder se relacionar com essa pessoa, mas se você se relacionar com qualquer outra pessoa, o seu cônjuge morrerá.",
+                afirmacao: "Você prefere encontrar o cônjuge da sua vida no próximo mês e só poder se relacionar com essa pessoa, mas se você se relacionar com qualquer outra pessoa, o seu cônjuge morrerá.",
             },
             {
-                texto: "Você prefere ter um relacionamento diferente a cada mês que passar com uma pessoa que você ama,porém, sempre que vocês terminarem, ela morre.",
-                afirmacao: "Você prefere ter um relacionamento diferente a cada mês que passar com uma pessoa que você ama,porém, sempre que vocês terminarem, ela morre.",
+                texto: "Você prefere ter inúmeros amores incríveis, o problema é que a cada nova pessoa que você conhecer, você será obrigado a terminar com a última que conheceu.",
+                afirmacao: "Você prefere ter inúmeros amores incríveis, o problema é que a cada nova pessoa que você conhecer, você será obrigado a terminar com a última que conheceu.",
             },
         ]
     },
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "Você prefere ser o responsável por desmatar a Amazônia, porém para benefício próprio.",
-                afirmacao: "Você prefere ser o responsável por desmatar a Amazônia, porém para benefício próprio.",
+                texto: "Você prefere ser o responsável por acabar com o aquecimento global, sem ter os créditos.",
+                afirmacao: "Você prefere ser o responsável por acabar com o aquecimento global, sem ter os créditos.",
             },
             {
-                texto: "Você prefere acabar com o aquecimento global, porém a pessoa que você mais odeia receberá os créditos por você.",
-                afirmacao: "Você prefere acabar com o aquecimento global, porém a pessoa que você mais odeia receberá os créditos por você.",
+                texto: "Você prefere ser o responsável por acabar com a economia de um país inteiro, porém receberá todo o dinheiro desse país, sem que ninguém saiba o que você fez.",
+                afirmacao: "Você prefere ser o responsável por acabar com a economia de um país inteiro, porém receberá todo o dinheiro desse país, sem que ninguém saiba o que você fez.",
             },
         ]
     },
